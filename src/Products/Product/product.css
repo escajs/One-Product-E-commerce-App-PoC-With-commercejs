@@ -1,0 +1,12 @@
+.card{
+    min-height:364.15px !important;
+    max-height:364.15px !important;
+}.card img{
+    min-height:254.35px !important;
+    max-height:254.35px !important;
+    object-fit: cover;
+}.card .card-content > p{
+    padding-bottom: 20px !important;
+}.card i {
+    font-size : 1.3rem !important;
+}
